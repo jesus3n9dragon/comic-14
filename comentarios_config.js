@@ -6,9 +6,11 @@
    Las reacciones inmediatas de la web se guardan solo en el navegador del lector.
 */
 
+
 window.ECOS_COMENTARIOS = {
   repo: 'jesus3n9dragon/comic-14',
   repoId: 'R_kgDOV7uICA',
   category: 'General',
   categoryId: 'DIC_kwDOV7uICM4DL8-W'
 };
+
