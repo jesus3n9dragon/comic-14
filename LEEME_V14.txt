@@ -1,0 +1,9 @@
+ECOS DEL CERRO RICO · WEB V14
+
+Se añadieron 5 láminas nuevas (archivos entregados pagina 22.png a pagina 26.png) correspondientes al capítulo VI de Catalina. El lector contiene portada y 25 láminas ilustradas. Se actualizó la biblioteca y la lectura por páginas y continua.
+
+La sección Historia narrada conserva el texto entregado, centrando los contenedores y justificando los párrafos en computadora, con alineación izquierda en teléfonos para evitar espacios irregulares. Las etiquetas SECCIÓN se muestran en azul oscuro sobre fondo arena.
+
+NOTA EDITORIAL: Algunas láminas anteriores tienen numeraciones impresas duplicadas; la web usa su propia numeración correlativa sin editar las ilustraciones. Las ilustraciones del capítulo VII y epílogo continúan pendientes. La activación pública de comentarios requiere configurar GitHub Discussions y Giscus en el repositorio.
+
+Publicación: subir el contenido de la carpeta ecos_cerro_rico_web a la raíz de GitHub Pages. Probar #volumenes, #lectura/21, #lectura/25, #historia y #actividades.

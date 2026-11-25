@@ -1,0 +1,41 @@
+ECOS DEL CERRO RICO · WEB V9
+================================
+
+NOVEDADES
+- Inicio: portada, acceso a biblioteca de lectura y al nuevo apartado de historia narrada.
+- Leer cómic: ficha de la obra con portada, géneros y lista de episodios disponibles.
+- Lector renovado: controles superiores para episodios y controles inferiores de página anterior/siguiente, primera página, modo ampliado y miniaturas.
+- La primera página del lector es la portada (no el inicio de la web).
+- Las 9 láminas disponibles se conservan en su orden original.
+- El lector intenta mantener la posición dentro de la sección de lectura al cambiar de página, en lugar de llevarte al encabezado del sitio.
+- Historia narrada: apartado reservado para el futuro texto completo. No se inventó contenido.
+- El contexto histórico documental anterior sigue disponible desde el enlace "Consultar el contexto histórico".
+- Reacciones: se guardan localmente en el navegador de cada lector. NO se comparten en línea.
+- Comentarios públicos: área preparada para integrar Giscus / GitHub Discussions; necesita configuración del repositorio.
+- Las 5 actividades con sus niveles se conservan de la V8.
+
+PARA AÑADIR LA HISTORIA NARRADA
+Abre el archivo historia_narrada.js. Sigue el ejemplo comentado y coloca allí los párrafos originales del guion. No es necesario modificar el resto de la web.
+
+PARA HABILITAR COMENTARIOS PÚBLICOS
+GitHub Pages sirve archivos estáticos y NO ofrece almacenamiento de mensajes por sí mismo.
+1. En el repositorio donde publicaste la web, habilita GitHub Discussions.
+2. Ve a https://giscus.app/es y elige ese repositorio y la categoría de discusión.
+3. Copia repo, repoId, category y categoryId a comentarios_config.js.
+4. Sube ese archivo actualizado a GitHub Pages.
+5. Los lectores necesitarán iniciar sesión con GitHub para comentar. La moderación debe realizarse desde Discussions.
+Sin esa configuración el espacio mostrará un aviso honesto de que los comentarios todavía no están activados.
+
+PUBLICAR EN GITHUB PAGES
+1. Descomprime el ZIP.
+2. Entra en la carpeta ecos_cerro_rico_web.
+3. Sube TODOS los archivos y la carpeta assets a la raíz del repositorio publicado, manteniendo los nombres y estructura.
+4. Asegúrate de que index.html quede en la raíz (no una carpeta por encima).
+5. Comprueba la web publicada en celular y computadora. Puedes forzar actualización del navegador después de publicar una versión nueva.
+
+ADVERTENCIAS
+- Los capítulos restantes no están publicados; se muestran como pendientes.
+- La música puede requerir una primera interacción del usuario por las políticas del navegador.
+- Los comentarios públicos no estarán disponibles hasta configurar Giscus.
+- Algunas fotografías de contexto histórico pueden requerir Internet para cargarse.
+- No se han añadido textos narrativos nuevos ni viñetas inventadas.

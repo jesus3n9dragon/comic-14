@@ -1,0 +1,41 @@
+ECOS DEL CERRO RICO — V11
+
+1. PUBLICACIÓN EN GITHUB PAGES
+   • Copia TODO el contenido de esta carpeta al repositorio publicado (no solo index.html).
+   • Conserva la carpeta assets/ y las rutas originales.
+   • Verifica la página en Chrome/Firefox desde un celular real.
+   • Al subir cambios, refresca con Ctrl+F5 o borra caché si ves la versión anterior.
+
+2. COMENTARIOS PÚBLICOS Y MODERACIÓN
+   Esta versión NO puede activar por sí sola los comentarios públicos.
+   Requiere acceso administrativo a GitHub; NO hay que compartir contraseña aquí.
+   • En GitHub, abre tu repositorio > Settings > General > Features > Discussions.
+   • Habilita Discussions y, si corresponde, crea la categoría Announcements o General.
+   • Configura Giscus en https://giscus.app/es y habilita la aplicación giscus para tu repositorio.
+   • Copia repo, repoId, category y categoryId a comentarios_config.js.
+   • Publica ese archivo y vuelve a abrir la web.
+   • En GitHub Discussions, revisa notificaciones, reporta/elimina contenido inapropiado
+     y utiliza las herramientas de moderación que permita tu repositorio.
+   • Los lectores necesitarán iniciar sesión en GitHub para comentar.
+   • No pidas datos personales a menores. Modera antes de difundir el enlace.
+   • Las reacciones locales NO representan conteos globales.
+
+3. CONTENIDOS QUE TODAVÍA NO SE HAN ENTREGADO
+   • La narración completa se agrega a historia_narrada.js (mantén el formato del ejemplo comentado).
+   • Las láminas adicionales requieren imágenes originales del usuario.
+   • No se inventaron escenas, diálogos ni capítulos faltantes.
+
+4. FUNCIONES
+   • Lector en modo por página o continuo (las nueve láminas disponibles).
+   • Ampliación de página y doble clic para zoom.
+   • Menú, miniaturas, pantalla completa lógica, navegación e historial local.
+   • Cuatro juegos originales y desafío adicional de memoria, cada uno fácil/difícil.
+   • Reacciones del episodio guardadas localmente.
+
+5. PRUEBAS RECOMENDADAS ANTES DE LA DEFENSA
+   - Inicio, Biblioteca, Lectura, Historia, Contexto, Personajes, Actividades, Créditos.
+   - Cinco juegos, dos niveles, incluyendo aciertos, fallos y reinicio.
+   - Lector: índice, siguiente/anterior, miniaturas, zoom, pantalla completa y modo continuo.
+   - Verifica pantallas de ~360/390/430 px, tablet y computadora.
+   - Verifica comentarios DESPUÉS de configurar Giscus.
+   - No se garantiza reproducción automática de música por políticas del navegador.

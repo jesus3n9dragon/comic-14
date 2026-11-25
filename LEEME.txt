@@ -1,0 +1,28 @@
+ECOS DEL CERRO RICO · V6 IDENTIDAD Y RESPONSIVE
+
+CAMBIOS PRINCIPALES
+- Se sustituyó el logo del encabezado por el nuevo identificador gráfico proporcionado, respetando su proporción y transparencia.
+- En celular el encabezado queda ordenado: logo a la izquierda, icono de música y menú a la derecha. El botón de menú ya no queda centrado.
+- El control de música muestra solamente el icono. Cambia de aspecto cuando la música está reproduciéndose.
+- La música utiliza la melodía mejorada proporcionada y permanece activa al cambiar entre las secciones del sitio.
+- En navegadores móviles, la música puede comenzar después del primer toque del usuario por las políticas de reproducción automática. Si se había pausado, puede reactivarse con el icono.
+- Se actualizaron las ilustraciones de Mateo, Lucía, Julián, Eco, Kusi, Tomás, Amaru, Inés y Catalina con las nuevas hojas de personaje.
+- Se corrigió el ajuste de las ilustraciones para evitar que los cuerpos se corten o se deformen.
+- Se mejoró la jerarquía tipográfica con Cinzel para títulos y Source Serif 4 para textos, con alternativas locales si no hay internet.
+- Se conservaron las secciones, actividades, navegación y lector de cómic de la versión anterior.
+
+CÓMO ABRIR
+1. Descomprime el ZIP completo.
+2. Abre la carpeta ecos_cerro_rico_web.
+3. Abre index.html con Chrome.
+4. Para usarlo desde celular, puedes subir la carpeta completa a tu hosting o GitHub Pages. No subas solo el HTML: también deben estar assets, styles.css y los archivos JavaScript.
+
+NOTA SOBRE LA MÚSICA
+Los navegadores móviles no permiten que una página inicie audio automáticamente antes de que la persona interactúe. Por eso, si el audio no comienza al abrir, basta con tocar una vez la página o el icono musical. Después continúa al cambiar de sección mientras no se pause.
+
+V7 · PORTADA Y PERSONAJES DE ACTIVIDADES
+- Portada principal y portada de biblioteca actualizadas con la nueva ilustración vertical proporcionada.
+- Página del prólogo «Una página arrancada» incorporada en el espacio de lectura del prólogo.
+- Actividad de Mateo: tarjeta con la pose de invitación y vista del reto con la pose de señalamiento.
+- Actividad de Lucía: nueva ilustración con moño rojo y mochila; se eliminó el patrón de transparencia que venía incrustado en la imagen original.
+- Las ilustraciones de actividades usan PNG con transparencia y se ajustan sin deformación.

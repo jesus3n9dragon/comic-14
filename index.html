@@ -1,0 +1,44 @@
+<!doctype html>
+<html lang="es">
+<head>
+<meta charset="utf-8"><meta name="viewport" content="width=device-width,initial-scale=1"><meta name="theme-color" content="#071c32">
+<meta name="description" content="Ecos del Cerro Rico: La última página. Cómic digital interactivo sobre la historia colonial de Potosí.">
+<title>Ecos del Cerro Rico · La última página</title>
+<link rel="stylesheet" href="styles.css">
+<link rel="stylesheet" href="actualizacion_v8.css">
+<link rel="stylesheet" href="actualizacion_v9.css">
+<link rel="stylesheet" href="actualizacion_v10.css">
+<link rel="stylesheet" href="actualizacion_v11.css">
+<link rel="stylesheet" href="actualizacion_v12.css">
+<link rel="stylesheet" href="actualizacion_v13.css">
+<link rel="stylesheet" href="actualizacion_v14.css">
+</head>
+<body>
+<a class="skip-link" href="#main">Saltar al contenido</a>
+<header class="site-header">
+  <div class="header-inner">
+    <a class="brand" href="#inicio" aria-label="Ecos del Cerro Rico, ir al inicio"><img class="brand-logo" src="assets/identificador_grafico.png" alt="Ecos del Cerro Rico: La última página"></a>
+    <nav id="nav" class="site-nav" aria-label="Navegación principal">
+      <a data-nav="inicio" href="#inicio">Inicio</a><a data-nav="volumenes" href="#volumenes">Leer cómic</a><a data-nav="historia" href="#historia">Explorar la historia</a><a data-nav="personajes" href="#personajes">Personajes</a><a data-nav="actividades" href="#actividades">Actividades</a><a data-nav="creditos" href="#creditos">Créditos</a>
+    </nav>
+    <button class="music-control" id="musicControl" type="button" aria-label="Activar música ambiental" aria-pressed="false" title="Activar o pausar música"><span aria-hidden="true">♫</span><span id="musicControlText" class="sr-only">Música apagada</span></button>
+    <button id="menuToggle" class="menu-toggle" aria-label="Abrir menú" aria-expanded="false" aria-controls="nav">☰</button>
+  </div>
+</header>
+<main id="main" tabindex="-1"></main>
+<footer class="footer"><div class="footer-inner"><span>✧ Ecos del Cerro Rico: La última página</span><span>Cómic interactivo · Potosí, Bolivia</span><span>Proyecto académico · 2026</span></div></footer>
+<div id="modal" class="modal" hidden><div class="modal-screen" data-close></div><section class="modal-panel" role="dialog" aria-modal="true" aria-labelledby="modalTitle"><button class="modal-x" id="closeModal" aria-label="Cerrar ventana">×</button><div id="modalContent"></div></section></div>
+<audio id="ambience" src="assets/musica_ecos_mejorada.mp3" preload="metadata" loop></audio>
+<script src="musica.js" defer></script>
+<script src="script.js" defer></script>
+<script src="mejoras.js" defer></script>
+<script src="actualizacion_v8.js" defer></script>
+<script src="historia_narrada.js" defer></script>
+<script src="comentarios_config.js" defer></script>
+<script src="actualizacion_v9.js" defer></script>
+<script src="actualizacion_v10.js" defer></script>
+<script src="actualizacion_v11.js" defer></script>
+<script src="actualizacion_v12.js" defer></script>
+<script src="actualizacion_v13.js" defer></script>
+</body>
+</html>

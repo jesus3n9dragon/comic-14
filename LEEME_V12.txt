@@ -1,0 +1,30 @@
+ECOS DEL CERRO RICO — WEB V12 (25/11/2026)
+
+CONTENIDO
+- Se conservan los colores, la identidad y los nueve recursos ilustrados del lector.
+- Cinco actividades: Quiz (Mateo), Relaciona (Lucía), Ordena (Kusi), Verdadero/Falso (El Eco), Memoria visual (Julián).
+- Dos dificultades por actividad; cinco ejercicios por dificultad: 50 reactivos/parejas/acontecimientos en total.
+- Relaciona: selección de concepto y definición en dos columnas (cinco pares) compatible con teclado y toque.
+- Ordena: cinco acontecimientos, con evaluación por posición y visualización del orden correcto.
+- Memoria: la escena del cómic aparece únicamente después de responder; corregidas las posiciones de las respuestas.
+- Lucía: imagen PNG con transparencia conservada; píxeles transparentes residuales limpiados.
+- Retroalimentación explicativa y puntuación sobre cinco, con avance local (no se recopilan datos personales).
+
+PRUEBAS REALIZADAS
+- Comprobación de sintaxis de archivos JS con Node.
+- Comprobación automática de cantidades y respuestas de los bancos.
+- Simulación de lógica para los cuatro juegos clásicos en fácil y difícil.
+- Comprobación de existencia de archivos de imagen, audio y CSS/JS vinculados.
+- ZIP comprobado sin errores de integridad.
+
+PRUEBAS PENDIENTES
+- Verificación visual y funcional manual en navegador de escritorio y móvil (el navegador automatizado del entorno bloqueó acceso a sitios locales).
+- Moderación y activación de Giscus: requiere habilitar GitHub Discussions y configurar comentarios_config.js. La web no puede crear ni moderar automáticamente comentarios públicos sin ese servicio.
+- Los capítulos y la narración que aún no se entregaron siguen pendientes, sin contenido inventado.
+
+PUBLICACIÓN
+1. Extraer este ZIP.
+2. Subir el CONTENIDO de ecos_cerro_rico_web a la raíz de tu repositorio de GitHub Pages, con la carpeta assets íntegra.
+3. Comprobar en un celular y computadora las diez modalidades (cinco juegos × dos dificultades).
+4. Para comentarios públicos, leer GUIA_PUBLICACION_Y_COMENTARIOS.txt.
+5. Si los cambios tardan en verse, recargar evitando caché.

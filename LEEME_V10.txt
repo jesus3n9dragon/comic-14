@@ -1,0 +1,24 @@
+ECOS DEL CERRO RICO — WEB V10 (correcciones puntuales)
+
+CAMBIOS
+1. Inicio: se conservan portada, texto y botones principales; se eliminan las tres tarjetas repetidas de Leer cómic, Explorar la historia y Personajes. Se sustituyeron por un bloque informativo sobre el proceso del proyecto.
+2. Reto «Memoria del Cerro Rico»: la imagen ya NO aparece antes de responder. Primero se selecciona una opción y se pulsa «Comprobar respuesta»; después aparece la respuesta razonada y la viñeta correspondiente. Ambos niveles.
+3. Música: se intenta activar al cargar la página, si el usuario no la había apagado antes. En móviles y navegadores con bloqueo de reproducción automática puede necesitarse el primer toque. Se mantiene al navegar entre apartados. El botón musical permite apagarla o encenderla.
+4. Adaptación: se ampliaron contenidos para pantallas grandes, se compactaron espacios vacíos y se ajustó el bloque educativo para móvil. Se mantiene el estilo azul, crema y dorado.
+5. Biblioteca, lector, páginas, personajes y otros juegos de V9: conservados.
+
+COMENTARIOS PÚBLICOS
+La web incluye zona preparada para Giscus, pero no puede publicar comentarios de forma compartida sin configurar el repositorio de GitHub.
+Para activarlos:
+  A. Ve al repositorio en GitHub: Settings → General → Features → Discussions y habilítalo.
+  B. En https://giscus.app/es, elige tu repositorio público con Discussions habilitado e instala la app de Giscus si lo solicita.
+  C. Copia repo, repoId, category y categoryId en comentarios_config.js.
+  D. Sube ese archivo a tu repositorio y espera a que se publique GitHub Pages.
+Los lectores necesitarán iniciar sesión con GitHub para comentar. Las reacciones sencillas siguen siendo locales a cada navegador.
+
+PUBLICAR EN GITHUB PAGES
+Descomprime ZIP y sube el CONTENIDO de ecos_cerro_rico_web a la raíz de tu repositorio (o a la carpeta desde la cual GitHub Pages publica). Mantén todas las subcarpetas, especialmente assets.
+Si no ves cambios al actualizar, prueba una recarga forzada (Ctrl+F5) o una ventana privada por caché.
+
+PRUEBAS
+Sintaxis JavaScript revisada. Estructura del ZIP y recursos comprobados. La prueba real automatizada de Chrome no pudo ejecutarse por restricciones del entorno; comprobar funcionamiento final en el GitHub Pages publicado.

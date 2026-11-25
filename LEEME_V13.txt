@@ -1,0 +1,12 @@
+ECOS DEL CERRO RICO — V13 · ILUSTRACIONES Y RELATO NARRADO
+
+PUBLICACIÓN: Extrae la carpeta ecos_cerro_rico_web y publica TODO su contenido en la raíz de GitHub Pages (index.html y assets/ en la raíz).
+
+- 21 ilustraciones disponibles en el lector: portada y 20 imágenes nuevas ordenadas según entrega. Se conserva el arte original en versión WebP optimizada.
+- Atención: algunos números impresos están repetidos y no se entregó una imagen identificada con el número 18. El lector usa el concepto "láminas" para distinguir la secuencia de archivos de los números impresos.
+- Narración organizada en diez apartados: prólogo, capítulos I-VII, epílogo y nota histórica. Texto editable en historia_narrada.js.
+- Los últimos capítulos narrados todavía no tienen imágenes. No se inventaron escenas.
+- Siguen funcionando los cinco juegos de la V12, lectura por página y continua y música.
+- Comentarios públicos: solo se activan tras configurar GitHub Discussions + Giscus en comentarios_config.js. Se requiere control del repositorio.
+
+PRUEBAS: biblioteca, lectura página por página y continua, historia narrada, cinco actividades en fácil/difícil, menús móvil y música. Las pruebas con usuarios reales aún están pendientes.

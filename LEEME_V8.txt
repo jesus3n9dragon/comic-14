@@ -1,0 +1,24 @@
+ECOS DEL CERRO RICO — SITIO WEB ACTUALIZADO V8
+
+Contenido nuevo:
+- Portada y páginas 2 a 9 del cómic, ilustraciones originales entregadas por el autor.
+- Lectura secuencial, miniaturas, teclado, gestos táctiles, controles de navegación y vista inmersiva.
+- Continuidad del progreso de lectura en este navegador.
+- Las cuatro actividades anteriores (nivel fácil y difícil) se conservaron.
+- Quinta actividad: Memoria del Cerro Rico, con niveles fácil y difícil.
+- Ajustes responsive para teléfonos y computadoras.
+- Música ambiental activable con el botón de nota musical. Puede requerir interacción inicial en Chrome móvil.
+
+PARA PUBLICAR EN GITHUB PAGES
+1. Descomprime el ZIP.
+2. Abre la carpeta ecos_cerro_rico_web.
+3. Copia TODO su contenido (index.html, .css, .js y la carpeta assets) en la raíz del repositorio o en la carpeta elegida para GitHub Pages.
+4. Asegúrate de reemplazar la versión antigua y no subir solamente index.html.
+5. Abre tu URL publicada y actualiza la página (si aparece contenido antiguo, fuerza recarga o limpia la caché).
+
+IMPORTANTE
+- No cambies nombres ni rutas de la carpeta assets.
+- Las imágenes históricas externas pueden necesitar conexión a internet; el cómic y las actividades usan recursos locales.
+- Solo se han integrado las páginas enviadas: portada, 2, 3, 4, 5, 6, 7, 8 y 9.
+- No se han inventado ni publicado las páginas faltantes.
+- Este paquete pasó verificaciones estáticas, pero no se ha podido ejecutar una prueba automática de navegador en este entorno.
